@@ -3,6 +3,7 @@ Hexa 3Match 게임입니다.
 각 역할에 따른 Model들을 만들고 GameManager가 Model을 통해 GameProcess를 실행하도록 구현되었습니다.
 
 예)
+
 InputModel : 마우스, 터치 등의 입력 처리를 담당하는 모델
 
 HexaMatchingModel : 매칭과 관련된 알고리즘이 구현된 모델
