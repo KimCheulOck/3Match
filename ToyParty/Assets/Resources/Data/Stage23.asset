@@ -1,0 +1,150 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a089f12deeeca049aed9705ee430e3b, type: 3}
+  m_Name: Stage23
+  m_EditorClassIdentifier: 
+  Datas:
+  - BlockType: -1
+    Location: {x: 0, y: 6}
+    IsFixedBlock: 1
+    IsShow: 0
+    IsQuestBlock: 0
+    QuestCount: 0
+  - BlockType: -1
+    Location: {x: 1, y: 6}
+    IsFixedBlock: 1
+    IsShow: 0
+    IsQuestBlock: 0
+    QuestCount: 0
+  - BlockType: -1
+    Location: {x: 5, y: 6}
+    IsFixedBlock: 1
+    IsShow: 0
+    IsQuestBlock: 0
+    QuestCount: 0
+  - BlockType: -1
+    Location: {x: 6, y: 6}
+    IsFixedBlock: 1
+    IsShow: 0
+    IsQuestBlock: 0
+    QuestCount: 0
+  - BlockType: -1
+    Location: {x: 2, y: 5}
+    IsFixedBlock: 1
+    IsShow: 0
+    IsQuestBlock: 0
+    QuestCount: 0
+  - BlockType: -1
+    Location: {x: 4, y: 5}
+    IsFixedBlock: 1
+    IsShow: 0
+    IsQuestBlock: 0
+    QuestCount: 0
+  - BlockType: 5
+    Location: {x: 2, y: 7}
+    IsFixedBlock: 0
+    IsShow: 1
+    IsQuestBlock: 1
+    QuestCount: 2
+  - BlockType: 5
+    Location: {x: 5, y: 7}
+    IsFixedBlock: 0
+    IsShow: 1
+    IsQuestBlock: 1
+    QuestCount: 2
+  - BlockType: 5
+    Location: {x: 4, y: 8}
+    IsFixedBlock: 0
+    IsShow: 1
+    IsQuestBlock: 1
+    QuestCount: 2
+  - BlockType: 5
+    Location: {x: 1, y: 10}
+    IsFixedBlock: 0
+    IsShow: 1
+    IsQuestBlock: 1
+    QuestCount: 2
+  - BlockType: 5
+    Location: {x: 2, y: 10}
+    IsFixedBlock: 0
+    IsShow: 1
+    IsQuestBlock: 1
+    QuestCount: 2
+  - BlockType: 5
+    Location: {x: 4, y: 10}
+    IsFixedBlock: 0
+    IsShow: 1
+    IsQuestBlock: 1
+    QuestCount: 2
+  - BlockType: 5
+    Location: {x: 5, y: 10}
+    IsFixedBlock: 0
+    IsShow: 1
+    IsQuestBlock: 1
+    QuestCount: 2
+  - BlockType: 5
+    Location: {x: 3, y: 11}
+    IsFixedBlock: 0
+    IsShow: 1
+    IsQuestBlock: 1
+    QuestCount: 2
+  - BlockType: -1
+    Location: {x: 0, y: 10}
+    IsFixedBlock: 1
+    IsShow: 0
+    IsQuestBlock: 0
+    QuestCount: 0
+  - BlockType: -1
+    Location: {x: 6, y: 10}
+    IsFixedBlock: 1
+    IsShow: 0
+    IsQuestBlock: 0
+    QuestCount: 0
+  - BlockType: -1
+    Location: {x: 0, y: 11}
+    IsFixedBlock: 1
+    IsShow: 0
+    IsQuestBlock: 0
+    QuestCount: 0
+  - BlockType: -1
+    Location: {x: 1, y: 11}
+    IsFixedBlock: 1
+    IsShow: 0
+    IsQuestBlock: 0
+    QuestCount: 0
+  - BlockType: -1
+    Location: {x: 2, y: 11}
+    IsFixedBlock: 1
+    IsShow: 0
+    IsQuestBlock: 0
+    QuestCount: 0
+  - BlockType: -1
+    Location: {x: 4, y: 11}
+    IsFixedBlock: 1
+    IsShow: 0
+    IsQuestBlock: 0
+    QuestCount: 0
+  - BlockType: -1
+    Location: {x: 5, y: 11}
+    IsFixedBlock: 1
+    IsShow: 0
+    IsQuestBlock: 0
+    QuestCount: 0
+  - BlockType: -1
+    Location: {x: 6, y: 11}
+    IsFixedBlock: 1
+    IsShow: 0
+    IsQuestBlock: 0
+    QuestCount: 0
+  MaxMoveCount: 20
+  StageLengthY: 6
+  StageLengthX: 7
